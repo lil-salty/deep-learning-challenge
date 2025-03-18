@@ -31,3 +31,7 @@ After adjustments were made the model was able to achieve an improved accuracy p
 
 ## Summary
 The overall results of the optimized machine learning model were still slightly under the target accuracy performance. It is recommended that further optimization of the model done before using the model for its venture predictions. 
+
+
+# Sources
+Sources for script include: ASU BootCamp Module activities, ASU BootCamp Homework Study Group, Xpert, GitHub, and StackOverflow
